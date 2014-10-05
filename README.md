@@ -11,6 +11,7 @@ Time Spent: 2.5 hours total (ran into issues with the first try, and had to re-s
 * [x] Required: Clicking on text field pulls up keyboard, which is a decimal pad
 * [x] Required: Clicking anywhere on screen removes keyboard
 * [x] Required: Users can select different percentage options (by using segmented controls) and see the total calculated automatically
+* * [x] Required: Gif walkthrough of the app
 
 
 ![WalkThrough](TipsApp.gif)
